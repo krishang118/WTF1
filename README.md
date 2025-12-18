@@ -7,7 +7,7 @@ WTF1 is a comprehensive data-driven Formula 1 analysis system designed to bridge
 ### 1. Strategy Studio 
 
 The command center for race strategy planning and real-time battle management:
-- Neutral Strategy Generator: Runs 1,000+ Monte Carlo simulations to determine the optimal tire strategy (e.g., Medium-Hard-Hard) with localized uncertainty envelopes.
+- Neutral Strategy Generator: Runs 1,000+ Monte Carlo simulations to determine the optimal tire strategy (e.g., Medium-Hard-Hard) with localized uncertainty envelopes (even has support for the 2025 Qatar 2-stop rule)
 - The Hunter (Battle Mode): A novel catch-up projector that calculates if a chasing car can overhaul a target within the remaining laps, accounting for compound deltas and tire age.
 - Undercut Analyzer: Real-time gap analysis to determine if a pit stop will grant track position, calculating the required out-lap delta.
 - Track Intelligence: Displays key metrics like Overtaking Difficulty (calibrated heuristics), SC Risk, and Aero Load.

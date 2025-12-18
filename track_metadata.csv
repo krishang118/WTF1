@@ -1,0 +1,33 @@
+track_name,country,length_km,num_corners,estimated_green_flag_pit_loss_s,drs_zones_typical,relative_overtaking_index,aero_load_category,expected_deg_index,historical_sc_risk_index
+Bahrain International Circuit,Bahrain,5.412,15,23.6,3,0.35,Medium,High,0.43
+Jeddah Corniche Circuit,Saudi Arabia,6.174,27,25.1,3,0.45,Medium-Low,Low-Medium,0.52
+Albert Park Circuit,Australia,5.278,14,21.7,2,0.50,Medium,Medium,0.58
+Suzuka Circuit,Japan,5.807,18,22.3,2,0.40,High,Medium,0.34
+Shanghai International Circuit,China,5.451,16,22.9,2,0.45,Medium,Medium,0.29
+Miami International Autodrome,USA,5.412,19,24.2,3,0.55,Medium,Medium,0.46
+Autodromo Internazionale Enzo e Dino Ferrari,Italy,4.909,19,20.9,1,0.60,Medium,Medium,0.36
+Circuit de Monaco,Monaco,3.337,19,22.8,1,0.92,Very High,Low,0.82
+Circuit Gilles Villeneuve,Canada,4.361,14,23.4,2,0.30,Low,Medium,0.48
+Circuit de Barcelona-Catalunya,Spain,4.675,14,22.6,2,0.50,Medium,High,0.31
+Red Bull Ring,Austria,4.318,10,20.3,2,0.25,Low,Low,0.27
+Silverstone Circuit,UK,5.891,18,22.9,2,0.45,Medium,Medium,0.33
+Hungaroring,Hungary,4.381,14,20.1,1,0.72,Very High,Medium,0.38
+Circuit de Spa-Francorchamps,Belgium,7.004,19,26.1,2,0.35,Medium,Medium,0.42
+Circuit Park Zandvoort,Netherlands,4.259,14,21.4,2,0.52,High,Medium,0.39
+Autodromo Nazionale Monza,Italy,5.793,11,26.5,2,0.28,Low,Low,0.28
+Baku City Circuit,Azerbaijan,6.003,20,27.9,2,0.45,Low,High,0.57
+Marina Bay Street Circuit,Singapore,4.928,19,23.1,3,0.88,Very High,High,0.71
+Circuit of the Americas,USA,5.513,20,24.6,2,0.40,Medium-High,Medium,0.36
+Autodromo Hermanos Rodríguez,Mexico,4.304,17,23.5,2,0.30,High,Medium,0.44
+Autodromo José Carlos Pace,Brazil,4.309,15,23.2,2,0.50,Medium,Medium,0.45
+Las Vegas Street Circuit,USA,6.201,17,28.6,2,0.35,Low,Low-Medium,0.53
+Losail International Circuit,Qatar,5.419,16,24.2,2,0.65,Medium,Medium-High,0.26
+Yas Marina Circuit,Abu Dhabi,5.281,16,25.1,2,0.40,Medium,Low,0.32
+Paul Ricard Circuit,France,5.842,15,24.2,2,0.55,Medium,Medium,0.28
+Hockenheimring,Germany,4.574,17,21.8,2,0.40,Medium,Medium,0.35
+Sochi Autodrom,Russia,5.848,18,24.8,2,0.30,Low,Low,0.28
+Istanbul Park,Turkey,5.338,14,17.0,1,0.45,High,High,0.32
+Autodromo Internacional do Algarve,Portugal,4.653,15,23.0,1,0.50,Medium,Medium,0.30
+Mugello Circuit,Italy,5.245,15,23.0,1,0.40,High,High,0.38
+Nurburgring,Germany,5.148,15,22.5,2,0.45,Medium,Medium,0.35
+Bahrain International Circuit (Outer),Bahrain,3.543,11,24.0,2,0.65,Low,Medium,0.30

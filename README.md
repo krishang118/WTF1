@@ -73,4 +73,10 @@ The system is built as a modular Python application with a Streamlit frontend; t
 
 *"WTF1 impresses not because it claims to know everything, but because it knows exactly what it doesn't know."*
 
-A robust data-driven F1 strategy engine leveraging Monte Carlo simulations, XGBoost, and FastF1 for predictive race analytics and real-time strategy optimization.
+## Contributing
+
+Contributions are welcome!
+
+## License
+
+Distributed under the MIT License. 

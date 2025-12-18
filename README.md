@@ -33,6 +33,8 @@ Retrospective analysis of famous strategic battles to validate the model's logic
 - Library: Includes Abu Dhabi 2021, Singapore 2019 (Undercut), Sakhir 2020.
 - Educational: Validates what the model *would* have done versus what actually happened.
 
+*"WTF1 impresses not because it claims to know everything, but because it knows exactly what it doesn't know."*
+
 ## Technical Architecture
 
 The system is built as a modular Python application with a Streamlit frontend; these are the main python files at play:
@@ -54,25 +56,17 @@ The system is built as a modular Python application with a Streamlit frontend; t
 
 ## How to Run
 
-1.  **Clone the repository**:
+1. Make sure Python 3.8+ is installed.
+2. Clone this repository on your local machine.
+3. Install the required dependencies:
     ```bash
-    git clone https://github.com/yourusername/WTF1.git
-    cd WTF1
-    ```
     pip install fastf1 pandas numpy scipy scikit-learn matplotlib seaborn xgboost streamlit streamlit-extras
-
-2.  **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
     ```
-
-3.  **Run the application**:
+4.  Run the application:
     ```bash
     streamlit run Home.py
     ```
-
-*"WTF1 impresses not because it claims to know everything, but because it knows exactly what it doesn't know."*
-
+    
 ## Contributing
 
 Contributions are welcome!

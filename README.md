@@ -2,6 +2,12 @@
 
 WTF1 is a comprehensive data-driven Formula 1 analysis system designed to bridge the gap between public data and professional strategy software. Built on the FastF1 API, it leverages advanced statistical modeling (Monte Carlo simulations, XGBoost degradation analysis) to provide explainable insights for real-time strategy optimization. 
 
+###
+
+<p align="center">
+  <img src="demos/Demo1.gif" width="800" />
+</p>
+
 ## Core Modules
 
 ### 1. Strategy Studio 

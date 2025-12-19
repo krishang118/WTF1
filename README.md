@@ -9,8 +9,8 @@ WTF1 is a comprehensive data-driven Formula 1 analysis system designed to bridge
 </p>
 
 <p align="center">
-  <img src="demos/Demo2.gif" width="400" />
   <img src="demos/Demo3.gif" width="400" />
+  <img src="demos/Demo5.gif" width="400" />
 </p>
 
 ## Core Modules
